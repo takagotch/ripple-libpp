@@ -2,7 +2,7 @@
 ---
 https://github.com/ripple/ripple-libpp
 
-```
+```cc
 ```
 
 ```sh
